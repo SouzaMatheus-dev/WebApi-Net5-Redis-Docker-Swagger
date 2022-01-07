@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "599f0e12-0729-4a2f-8ae5-2c0a9383a7c7": {
+      "ProjectGuid": "599f0e12-0729-4a2f-8ae5-2c0a9383a7c7",
+      "DisplayName": "FrameworkChallenge.API",
+      "ColorIndex": 0
+    },
+    "1165f4c3-52be-403a-bd48-61ff28b5cb5c": {
+      "ProjectGuid": "1165f4c3-52be-403a-bd48-61ff28b5cb5c",
+      "DisplayName": "FrameworkChallenge.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
